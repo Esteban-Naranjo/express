@@ -1,4 +1,4 @@
-var suma = require('../../suma')
+var suma = require('../suma')
 
 describe("Test about dummy function", () => {
     it("should return a + b number", () => {
